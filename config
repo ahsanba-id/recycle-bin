@@ -173,7 +173,7 @@
     "infotext_styles": "Apply if any",
     "show_progressbar": true,
     "live_previews_enable": true,
-    "live_previews_image_format": "png",
+    "live_previews_image_format": "jpg",
     "show_progress_grid": true,
     "show_progress_every_n_steps": 10,
     "show_progress_type": "Approx NN",
