@@ -10,7 +10,7 @@ def upscale_image(image, factor=4):
   return upscaled_image
 
 def main():
-  model_path = "path/to/model.ckpt"
+  model_path = "models/testing.ckpt"
 
   # Get the prompt from the user.
   prompt = input("Enter a prompt: ")
