@@ -13,7 +13,7 @@ def save_image(image, filename, quality=98):
   image.save(filename, quality=quality)
 
 def main():
-  model_path = "path/to/model.ckpt"
+  model_path = "model.safetensors"
   prompt = input("Enter a prompt: ")
 
   # Split the prompt into a positive prompt and a negative prompt.
